@@ -115,3 +115,5 @@ def plot_charts():
     plt.grid()
     plt.plot(x, y, linestyle='dashed', marker='o', markerfacecolor='blue', markersize=10)
     plt.show()
+
+plot_charts()
